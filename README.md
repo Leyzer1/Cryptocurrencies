@@ -23,4 +23,3 @@ We then created a 2D scatter plot to comapre Total Coins Mained vs Total Coins S
 
 ![hvplot scatter plot](https://user-images.githubusercontent.com/95899763/167338316-4f85bca6-3ef4-4fe2-986c-0c81d060ba12.PNG)
 
-# Summary
